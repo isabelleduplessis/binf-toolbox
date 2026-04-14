@@ -53,7 +53,7 @@ bwa aln -n 0.1 -l 32
 
 ## Mapping QC
 
-MapDamage
+- MapDamage
 
 ## Resources
 
